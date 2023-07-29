@@ -1,0 +1,15 @@
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\bin\Debug\net7.0\Integrado.Domain.deps.json
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\bin\Debug\net7.0\Integrado.Domain.dll
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\bin\Debug\net7.0\Integrado.Domain.pdb
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\bin\Debug\net7.0\Integrado.Domain.Core.dll
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\bin\Debug\net7.0\Integrado.Domain.Core.pdb
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\Integrado.Domain.csproj.AssemblyReference.cache
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\Integrado.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\Integrado.Domain.AssemblyInfoInputs.cache
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\Integrado.Domain.AssemblyInfo.cs
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\Integrado.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\Integrado.Domain.csproj.CopyComplete
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\Integrado.Domain.dll
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\refint\Integrado.Domain.dll
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\Integrado.Domain.pdb
+D:\workspace\Integrado\integrado-backend\Integrado.Domain\obj\Debug\net7.0\ref\Integrado.Domain.dll

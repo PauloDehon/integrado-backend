@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Integrado.Application\Integrado.Application.csproj" />
+    <ProjectReference Include="..\Integrado.Domain\Integrado.Domain.csproj" />
+    <ProjectReference Include="..\Integrado.Infra.Data\Integrado.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
